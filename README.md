@@ -18,3 +18,14 @@ A web application to track and manage job applications.
 - CSS
 - JavaScript
 - Git & GitHub
+
+## Job Application Fields
+
+- Company Name
+- Job Role
+- Location
+- Application Date
+- Status
+- Interview Date
+- Job Link
+- Notes

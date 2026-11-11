@@ -1,0 +1,11 @@
+TABLE: job_applications
+
+id
+company_name
+job_role
+location
+application_date
+status
+interview_date
+job_link
+notes
